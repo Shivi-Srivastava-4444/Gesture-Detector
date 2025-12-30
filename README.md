@@ -5,8 +5,8 @@ This project is a real-time hand gesture recognition system built using Python, 
 
 📷 Real-time hand tracking using MediaPipe
 ✋ Single-hand and two-hand gesture detection
-🤝 Two-hand gesture recognition (e.g., index fingers touching)
-🧠 Rule-based gesture classification (no ML training required)
+🤝 Two-hand gesture recognition
+🧠 Rule-based gesture classification 
 📝 Live sentence formation from detected gestures
 ⌨️ Keyboard-based controls
 ❌ Safe exit via keyboard or window close
